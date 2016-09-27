@@ -1,0 +1,20 @@
+#Gradle ignores
+.gradle
+build/
+
+target/
+
+#IDEA project files and artifacts
+.idea
+*.iml
+classes
+out
+
+#Artifacts
+
+*.class
+*.war
+*.jar
+
+## git merge files
+*.orig
